@@ -1,0 +1,14 @@
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+[Bb][Uu][Ii][Ll][Dd]
+[Bb][Uu][Ii][Ll][Dd]_[Dd][Ee][Bb][Uu][Gg]
+.vscode
